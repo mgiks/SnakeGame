@@ -1,6 +1,7 @@
 from tkinter import * # type: ignore
 import random
 
+#Constants
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
 SPEED = 150
