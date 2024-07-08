@@ -1,1 +1,1 @@
-Tutorial based snake game
+Just run the code.
